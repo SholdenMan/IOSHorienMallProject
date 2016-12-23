@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+target 'IOSHorienMallProject' do
+    pod 'AFNetworking', '~> 3.0.4'
+    pod 'SDWebImage', '~> 3.8.1'
+    pod 'UMengSocialCOM', '~> 5.2.1'
+    pod 'FMDB', '~> 2.6'
+    pod 'MJRefresh'
+    pod 'MJExtension', '~> 3.0.11'
+    pod 'Qiniu', '~> 7.1'
+    pod 'IQKeyboardManager', '~> 3.3.7’
+end
